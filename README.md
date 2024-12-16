@@ -10,13 +10,17 @@ https://github.com/jetsonai/LLM4RobotsClass/tree/main/Day1
 
 LLAMA3, LLAMA3.2 Dataset Generation, FineTuning, Load and Save, Rag Test
 
-### In case of Colab 
+### In case of Colab : Version 1
 
 https://github.com/jetsonai/LLM4RobotsClass/tree/main/Day2_ColabVersion
 
-### In case of GPU Server
+### In case of Colab & GPU Server
 
 https://github.com/jetsonai/LLM4RobotsClass/tree/main/Day2_GPUServerTest
+
+### In case of Colab & GPU Server : Version 1
+
+https://github.com/jetsonai/LLM4RobotsClass/tree/main/Day2_LlamaFineTuning
 
 ## Day3
 
