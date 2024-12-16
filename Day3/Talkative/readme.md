@@ -17,7 +17,8 @@ cd whisper.cpp/build/bin
 ./server -m ./server --language ko -m ../../models/ggml-base.bin
 
 -----------------
+# Start Robot to LLM Test
 
 cd Talkative
 
-python3 
+python3 Wav2LLM.py
