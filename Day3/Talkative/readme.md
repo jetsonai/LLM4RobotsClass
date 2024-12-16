@@ -5,6 +5,8 @@ nvidia@ubuntu:~/llama.cpp/build/bin$ ./llama-server -m /mnt/mnt__data/xavier/mod
 -----------------
 # Make ramdisk 
 
+cd Talkative
+
 mkdir ramdisk
 
 sudo mount -t ramfs -o size=100M ramfs ./ramdisk
@@ -18,7 +20,5 @@ cd whisper.cpp/build/bin
 
 -----------------
 # Start Robot to LLM Test
-
-cd Talkative
 
 python3 Wav2LLM.py
