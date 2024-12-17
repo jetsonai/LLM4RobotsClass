@@ -1,23 +1,36 @@
 # Convert GGUF
 
-## prepare model (for example, you can download llama3.2 Korean Bllossom Model.)
+### Make models folder 
+
+cd 
 
 mkdir models
 
-cd models
-
-python3 model_download.py
-
-(you can change any model if you want.) 
-
-## git clone llama.cpp Server or Colab at any place
+### git clone llama.cpp Server or Colab at any place
 
 git clone https://github.com/ggerganov/llama.cpp
 
-## you can convert hf to gguf without build
+-----------------
 
-python3 convert_hf_to_gguf.py ../models/Bllossom/ --outtype f16
+## 1. Convert Bllossom Model
 
+### prepare model (for example, you can download llama3.2 Korean Bllossom Model.)
 
+./python3 model_download.sh
 
+## you can convert hf to gguf 
+
+./model_converter.sh
+
+-----------------
+
+## 2. Convert My Model
+
+### prepare model (for example, you can download rssaem/Llama3_2_ModelBTS Model.)
+
+./python3 my_model_download.sh
+
+## you can convert hf to gguf 
+
+./my_model_converter.sh
 
