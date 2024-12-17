@@ -34,7 +34,7 @@ https://github.com/jetsonai/LLM4RobotsClass/tree/main/Day2_FineTuning/Test_llama
 
 ### Convert GGUF
 
-https://github.com/jetsonai/LLM4RobotsClass/tree/main/Day2_FineTuning/ConvertGGUF
+https://github.com/jetsonai/LLM4RobotsClass/tree/main/Day3_RobotTest/ConvertGGUF
 
 ----------------------------------
 ## Day3
