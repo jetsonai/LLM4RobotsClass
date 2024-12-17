@@ -1,0 +1,7 @@
+
+./main --language auto -m ../../models/ggml-base.bin -f  ~/wav/testllama1.wav 
+
+ffmpeg -i ~/wav/testllama.wav -ar 16000 -ac 1 -c:a pcm_s16le ~/wav/testllama1.wav 
+
+
+./server -m ./server --language auto -m ../../models/ggml-base.bin
