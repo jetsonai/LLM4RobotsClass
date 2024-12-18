@@ -11,8 +11,7 @@ https://github.com/jetsonai/LLM4RobotsClass/tree/main/Day1
 ## Day2
 
 LLAMA3, LLAMA3.2 Dataset Generation, FineTuning, Load and Save, Rag Test, GGUF 변환
-![image](https://github.com/user-attachments/assets/ef781e08-1519-415d-8081-836eb7a2ed0c)
-
+![image](https://github.com/user-attachments/assets/9651d886-432f-4a28-a4fd-6b4b673505c3)
 
 ### llama3.2 : Test Version 1
 
