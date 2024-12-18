@@ -10,7 +10,7 @@ https://github.com/jetsonai/LLM4RobotsClass/tree/main/Day1
 
 ## Day2
 
-LLAMA3, LLAMA3.2 Dataset Generation, FineTuning, Load and Save, Rag Test, GGUF 변
+LLAMA3, LLAMA3.2 Dataset Generation, FineTuning, Load and Save, Rag Test, GGUF 변환
 
 ### llama3.2 : Test Version 1
 
@@ -41,7 +41,7 @@ https://github.com/jetsonai/LLM4RobotsClass/tree/main/Day3_RobotTest/ConvertGGUF
 
 ## Day3
 
-LLAMA3.2 with R-Sssaem Bot
+LLAMA3.2 with llama.cpp or ollama for R-Sssaem Bot
 
 ----------------------------------
 ### ollama test
