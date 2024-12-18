@@ -1,0 +1,47 @@
+sudo apt update
+
+sudo apt install python3-pip
+sudo apt install vim cmake git python3-dev python3-pip python3-numpy \
+  python3-matplotlib 
+  
+
+  
+pip install torch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cu121
+
+pip install torch==2.5.1+cu121 torchvision==0.20.1+cu121 torchaudio==2.5.1+cu121 --index-url https://download.pytorch.org/whl/cu121
+
+>>> import torch
+>>> print(torch.cuda.is_available())
+
+
+
+pip3 install sentencepiece
+
+
+watch -d -n 0.1 nvidia-smi
+
+-----------------------------
+ sudo apt  install curl
+ 
+curl -fsSL https://ollama.com/install.sh | sh
+ 
+
+ 
+ ollama run llama3.2
+ 
+ https://www.joinc.co.kr/w/llama-3-korean
+ 
+   140  ollama create Bllossom-3.2B-F16 -f Modelfile
+  141  ollama run Bllossom-3.2B-F16
+  
+    160  ollama list
+  163  ollama run Bllossom-3.2B-F16:latest 
+  164  sudo systemctl stop ollama
+  180  sudo systemctl stop ollama
+  181  /usr/localbin/ollama serve
+  182  /usr/local/bin/ollama serve
+  184  sudo systemctl start ollama
+  
+  
+  ollama create llama-rssaem-bts-3.2-3B-f16 -f Modelfile
+
