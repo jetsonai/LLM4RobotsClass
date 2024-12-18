@@ -7,7 +7,7 @@ https://github.com/jetsonai/LLM4RobotsClass/tree/main/Day1
 ----------------------
 
 ## Day2
-![image](https://github.com/user-attachments/assets/685344d0-2abf-446b-a551-2f4cc4565d80)
+![image](https://github.com/user-attachments/assets/59202c83-f288-4d42-8b70-c96bb136ca25)
 
 ### llama3.2 : Test Version 1
 
