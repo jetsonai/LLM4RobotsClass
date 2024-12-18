@@ -1,17 +1,13 @@
 # LLM4Robots
 
-## Day1
-
-LLM 이해하기
+## Day1 : LLM 이해하기
 
 https://github.com/jetsonai/LLM4RobotsClass/tree/main/Day1
 
 ----------------------
 
 ## Day2
-
-LLAMA3, LLAMA3.2 Dataset Generation, FineTuning, Load and Save, Rag Test, GGUF 변환
-![image](https://github.com/user-attachments/assets/9651d886-432f-4a28-a4fd-6b4b673505c3)
+![image](https://github.com/user-attachments/assets/685344d0-2abf-446b-a551-2f4cc4565d80)
 
 ### llama3.2 : Test Version 1
 
