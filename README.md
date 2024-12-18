@@ -33,12 +33,10 @@ https://github.com/jetsonai/LLM4RobotsClass/tree/main/Day2_FineTuning/Test_llama
 
 https://github.com/jetsonai/LLM4RobotsClass/tree/main/Day3_RobotTest/ConvertGGUF
 
-
 ----------------------------------
 
 ## Day3
-
-LLAMA3.2 with llama.cpp or ollama for R-Sssaem Bot
+![image](https://github.com/user-attachments/assets/99548e04-e649-43ae-a740-150b7f026a85)
 
 ----------------------------------
 ### ollama test
