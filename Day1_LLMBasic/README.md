@@ -8,6 +8,7 @@ Google Colab
   {
       "data-root": "NEW_PATH/docker"
   }
+  sudo systemctl restart docker
   ```
 
 - google colab docker
