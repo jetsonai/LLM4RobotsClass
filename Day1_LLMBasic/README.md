@@ -1,6 +1,20 @@
 # 실습환경
 Google Colab
 
+## for local colab docker image
+- change docker base path
+  ```
+  sudo vim /etc/docker/daemon.json
+  {
+      "data-root": "NEW_PATH/docker"
+  }
+  ```
+
+- google colab docker
+  ```
+  docker run --runtime nvidia -e NVIDIA_DRIVER_CAPABILITIES=all -e NVIDIA_VISIBLE_DEVICES=all --net=host --ipc=host --privileged -v /mnt/hdd/workspace:/content/workspace -v /mnt/hdd/root:/root --rm asia-docker.pkg.dev/colab-images/public/runtime
+  ```
+
 # 개요
 
 ## 자연어 처리 개요
